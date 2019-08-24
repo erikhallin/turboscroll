@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1445708043 source:c:\cpp\turboscroll\game.cpp
+	"game.h"
+
+1445627024 c:\cpp\turboscroll\game.h
+	<SOIL/SOIL.h>
+	<iostream>
+	<gl/gl.h>
+	<vector>
+	<time.h>
+	"player.h"
+	"object.h"
+	"gamepad.h"
+	"hat.h"
+	"rack.h"
+	"sound.h"
+
+1445712237 source:c:\cpp\turboscroll\main.cpp
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	<fcntl.h>
+	<stdio.h>
+	<time.h>
+	"definitions.h"
+	"game.h"
+
+1445710159 c:\cpp\turboscroll\definitions.h
+	<math.h>
+	<stdlib.h>
+
+1445285139 c:\cpp\turboscroll\player.h
+	<iostream>
+	<gl/gl.h>
+	<vector>
+	"definitions.h"
+
+1445712211 source:c:\cpp\turboscroll\player.cpp
+	"player.h"
+
+1445127812 c:\cpp\turboscroll\object.h
+	<iostream>
+	<gl/gl.h>
+	"definitions.h"
+
+1445127812 source:c:\cpp\turboscroll\object.cpp
+	"object.h"
+
+1402760544 c:\cpp\turboscroll\gamepad.h
+	<windows.h>
+	<D3D/XInput.h>
+
+1388793472 source:c:\cpp\turboscroll\gamepad.cpp
+	"gamepad.h"
+
+1445284169 c:\cpp\turboscroll\hat.h
+	<iostream>
+	<gl/gl.h>
+	"definitions.h"
+
+1445711503 source:c:\cpp\turboscroll\hat.cpp
+	"hat.h"
+
+1388789872 source:c:\erikprogram\turboscroll\gamepad.cpp
+	"gamepad.h"
+
+1402760544 c:\erikprogram\turboscroll\gamepad.h
+	<windows.h>
+	<D3D/XInput.h>
+
+1445127812 source:c:\erikprogram\turboscroll\object.cpp
+	"object.h"
+
+1445127812 c:\erikprogram\turboscroll\object.h
+	<iostream>
+	<gl/gl.h>
+	"definitions.h"
+
+1445806045 c:\erikprogram\turboscroll\definitions.h
+	<math.h>
+	<stdlib.h>
+
+1445806433 source:c:\erikprogram\turboscroll\player.cpp
+	"player.h"
+
+1445805900 c:\erikprogram\turboscroll\player.h
+	<iostream>
+	<gl/gl.h>
+	<vector>
+	"definitions.h"
+
+1445801446 source:c:\erikprogram\turboscroll\main.cpp
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	<fcntl.h>
+	<stdio.h>
+	<time.h>
+	"definitions.h"
+	"game.h"
+
+1445807277 c:\erikprogram\turboscroll\game.h
+	<SOIL/SOIL.h>
+	<iostream>
+	<gl/gl.h>
+	<vector>
+	<time.h>
+	"player.h"
+	"object.h"
+	"gamepad.h"
+	"hat.h"
+	"rack.h"
+	"sound.h"
+
+1445805431 c:\erikprogram\turboscroll\hat.h
+	<iostream>
+	<gl/gl.h>
+	"definitions.h"
+
+1445806433 source:c:\erikprogram\turboscroll\game.cpp
+	"game.h"
+
+1445805528 source:c:\erikprogram\turboscroll\hat.cpp
+	"hat.h"
+
+1445284614 c:\erikprogram\turboscroll\rack.h
+	<iostream>
+	<gl/gl.h>
+	"definitions.h"
+
+1445711406 source:c:\erikprogram\turboscroll\rack.cpp
+	"rack.h"
+
+1445708043 c:\erikprogram\turboscroll\sound.h
+	"sound_list.h"
+	<cstdlib>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+	<vorbis/vorbisfile.h>
+
+1445372205 c:\erikprogram\turboscroll\sound_list.h
+
+1445708094 source:c:\erikprogram\turboscroll\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1445284614 c:\cpp\turboscroll\rack.h
+	<iostream>
+	<gl/gl.h>
+	"definitions.h"
+
+1445708043 c:\cpp\turboscroll\sound.h
+	"sound_list.h"
+	<cstdlib>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+	<vorbis/vorbisfile.h>
+
+1445372205 c:\cpp\turboscroll\sound_list.h
+
+1445711406 source:c:\cpp\turboscroll\rack.cpp
+	"rack.h"
+
+1445708094 source:c:\cpp\turboscroll\sound.cpp
+	<stdio.h>
+	"sound.h"
+
